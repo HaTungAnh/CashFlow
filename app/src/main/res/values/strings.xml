@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">CashFlow</string>
+    <string name="s_ti_n_chi">Số tiền chi</string>
+    <string name="_0">0đ</string>
+    <string name="danh_m_c">Danh mục</string>
+    <string name="n_u_ng">Ăn uống</string>
+    <string name="chi_ti_u_h_ng_ng_y">Chi tiêu hàng ngày</string>
+    <string name="qu_n_o">Quần áo</string>
+    <string name="m_ph_m">Mỹ phẩm</string>
+    <string name="ph_giao_l_u">Phí giao lưu</string>
+    <string name="y_t">Y tế</string>
+    <string name="gi_o_d_c">Giáo dục</string>
+    <string name="ti_n_i_n">Tiền điện</string>
+    <string name="i_l_i">Đi lại</string>
+    <string name="ph_li_n_l_c">Phí liên lạc</string>
+    <string name="ti_n_nh">Tiền nhà</string>
+    <string name="ch_nh_s_a">Chỉnh sửa</string>
+    <string name="th_m">Thêm</string>
+    <string name="ph_h_ng_ng_y">Phí hàng ngày</string>
+    <string name="nh_p_kho_n_chi">Nhập khoản chi</string>
 </resources>
