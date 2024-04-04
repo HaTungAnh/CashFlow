@@ -33,7 +33,6 @@
                     android:id="@+id/tab1"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent">
-
                     <include layout="@layout/spending_money" />
                 </FrameLayout>
 
@@ -42,7 +41,15 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent">
 
-                    <include layout="@layout/earned_money" />
+                    <include layout="@layout/calender" />
+                </FrameLayout>
+
+                <FrameLayout
+                    android:id="@+id/tab3"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <include layout="@layout/chart" />
                 </FrameLayout>
 
             </FrameLayout>

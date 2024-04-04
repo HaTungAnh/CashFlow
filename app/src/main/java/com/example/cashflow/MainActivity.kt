@@ -14,12 +14,17 @@ class MainActivity : AppCompatActivity() {
 
         var spec: TabHost.TabSpec = tabHost.newTabSpec("Tab One")
         spec.setContent(R.id.tab1)
-        spec.setIndicator("Tiền chi tiêu")
+        spec.setIndicator("Nhập vào")
         tabHost.addTab(spec)
 
         spec = tabHost.newTabSpec("Tab Two")
         spec.setContent(R.id.tab2)
-        spec.setIndicator("Tiền kiếm được")
+        spec.setIndicator("Lịch")
+        tabHost.addTab(spec)
+
+        spec = tabHost.newTabSpec("Tab Three")
+        spec.setContent(R.id.tab3)
+        spec.setIndicator("Biểu đồ")
         tabHost.addTab(spec)
     }
 }
